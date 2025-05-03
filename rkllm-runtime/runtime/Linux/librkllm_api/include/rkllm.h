@@ -9,6 +9,7 @@ extern "C" {
  * @typedef LLMHandle
  * @brief A handle used to manage and interact with the large language model.
  */
+#include <cstdint>
 typedef void* LLMHandle;
 
 /**
