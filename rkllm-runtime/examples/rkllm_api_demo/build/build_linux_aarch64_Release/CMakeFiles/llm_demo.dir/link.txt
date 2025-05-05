@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/llm_demo.dir/src/llm_demo.cpp.o -o llm_demo  -Wl,-rpath,/home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/../../runtime/Linux/librkllm_api/aarch64 /home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/../../runtime/Linux/librkllm_api/aarch64/librkllmrt.so 

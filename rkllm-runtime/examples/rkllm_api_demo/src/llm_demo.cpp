@@ -49,7 +49,7 @@ void callback(RKLLMResult *result, void *userdata, LLMCallState state)
         printf("\n");
     } else if (state == RKLLM_RUN_ERROR) {
         printf("\\run error\n");
-    } else if (state == RKLLM_RUN_GET_LAST_HIDDEN_LAYER) {
+    } else if (state == 4) {
         /* ================================================================================================================
         若使用GET_LAST_HIDDEN_LAYER功能,callback接口会回传内存指针:last_hidden_layer,token数量:num_tokens与隐藏层大小:embd_size
         通过这三个参数可以取得last_hidden_layer中的数据
