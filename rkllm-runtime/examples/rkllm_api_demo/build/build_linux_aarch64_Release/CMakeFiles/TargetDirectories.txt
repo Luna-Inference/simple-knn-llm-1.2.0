@@ -1,4 +1,0 @@
-/home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/build/build_linux_aarch64_Release/CMakeFiles/llm_demo.dir
-/home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/build/build_linux_aarch64_Release/CMakeFiles/multimodel_demo.dir
-/home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/build/build_linux_aarch64_Release/CMakeFiles/edit_cache.dir
-/home/thomas/npu2/simple-knn-llm-1.2.0/rkllm-runtime/examples/rkllm_api_demo/build/build_linux_aarch64_Release/CMakeFiles/rebuild_cache.dir
